@@ -34,9 +34,6 @@ I am a passionate and detail-oriented Backend Developer with a Bachelor's degree
 <h3 align="left">GitHub Analytics</h3>
 <div align="center">
   <a href="https://github.com/anggraanutomo">
-    <img src="https://github-readme-stats.vercel.app/api?username=anggraanutomo&show_icons=true&include_all_commits=true&bg_color=000&title_color=fff&text_color=fff&icon_color=fff" alt="Commit Stats"/>
-  </a>
-  <a href="https://github.com/anggraanutomo">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anggraanutomo&layout=compact&langs_count=8&bg_color=000&title_color=fff&text_color=fff" alt="Language Stats"/>
   </a>
 </div>
