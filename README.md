@@ -1,16 +1,44 @@
-## Hi there 👋
+---
 
-<!--
-**anggraanutomo/anggraanutomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">About Me</h3>
+<div align="left">
+I am a passionate and detail-oriented Backend Developer with a Bachelor's degree in Informatics Engineering. My expertise lies in creating efficient, scalable backend solutions. I have a strong foundation in Go with the Echo Framework and Java, and I thrive on solving complex problems with innovative solutions.
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Languages and Tools</h3>
+<div align="center"> 
+  <a href="https://go.dev/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/-go-00ADD8?style=for-the-badge&logo=go&logoColor=white&color=black" alt="go"/> 
+  </a>  
+  <a href="https://go.dev/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&color=black" alt="java"/> 
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white&color=black" alt="mysql"/> 
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&color=black" alt="postgresql"/> 
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white&color=black" alt="mongodb"/> 
+  </a> 
+  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/-google%20cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&color=black" alt="gcloud"/> 
+  </a>
+</div>
+
+---
+
+<h3 align="left">GitHub Analytics</h3>
+<div align="center">
+  <a href="https://github.com/anggraanutomo">
+    <img src="https://github-readme-stats.vercel.app/api?username=anggraanutomo&show_icons=true&include_all_commits=true&count_private=true&bg_color=000&title_color=fff&text_color=fff&icon_color=fff" alt="Commit Stats"/>
+  </a>
+  <a href="https://github.com/anggraanutomo">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anggraanutomo&layout=compact&langs_count=8&bg_color=000&title_color=fff&text_color=fff" alt="Language Stats"/>
+  </a>
+</div>
+
+---
