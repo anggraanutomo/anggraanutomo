@@ -33,6 +33,9 @@ I am a passionate and detail-oriented Backend Developer with a Bachelor's degree
   <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/-google%20cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&color=black" alt="gcloud"/> 
   </a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=aws&logoColor=white&color=black" alt="aws"/> 
+  </a>
 </div>
 
 ---
