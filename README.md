@@ -25,7 +25,7 @@ I am a passionate and detail-oriented Backend Developer with a Bachelor's degree
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&color=black" alt="postgresql"/> 
   </a>
   <a href="https://www.mariadb.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=mariadb&logoColor=white&color=black" alt="mariadb"/> 
+    <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white&color=black" alt="mariadb"/> 
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white&color=black" alt="mongodb"/> 
