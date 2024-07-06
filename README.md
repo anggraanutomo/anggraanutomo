@@ -12,14 +12,20 @@ I am a passionate and detail-oriented Backend Developer with a Bachelor's degree
   <a href="https://go.dev/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/-go-00ADD8?style=for-the-badge&logo=go&logoColor=white&color=black" alt="go"/> 
   </a>  
-  <a href="https://go.dev/" target="_blank" rel="noreferrer"> 
+  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/-go-00ADD8?style=for-the-badge&logo=go&logoColor=white&color=black" alt="kotlin"/> 
+  </a>  
+  <a href="https://java.com/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&color=black" alt="java"/> 
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white&color=black" alt="mysql"/> 
   </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&color=black" alt="postgresql"/> 
+  </a>
+  <a href="https://www.mariadb.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&color=black" alt="mariadb"/> 
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white&color=black" alt="mongodb"/> 
