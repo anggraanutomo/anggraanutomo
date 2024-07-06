@@ -13,7 +13,7 @@ I am a passionate and detail-oriented Backend Developer with a Bachelor's degree
     <img src="https://img.shields.io/badge/-go-00ADD8?style=for-the-badge&logo=go&logoColor=white&color=black" alt="go"/> 
   </a>  
   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/-go-00ADD8?style=for-the-badge&logo=go&logoColor=white&color=black" alt="kotlin"/> 
+    <img src="https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=go&logoColor=white&color=black" alt="kotlin"/> 
   </a>  
   <a href="https://java.com/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&color=black" alt="java"/> 
